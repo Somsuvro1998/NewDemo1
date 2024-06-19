@@ -9,5 +9,7 @@ public class Demonstration {
 		System.out.println("hi");
 		System.out.println("Goodbye");
 		System.out.println("Yes");
+		System.out.println("Nice");
+		
 	}
 }
